@@ -1,0 +1,23 @@
+
+.Cards_container{
+  height: 100vh;
+  padding-right: 65px !important;
+  padding-left: 65px !important;
+  padding-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Open Sans', sans-serif !important;
+
+}
+
+.Cards_heading{
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 50px;
+margin-left: 105px;
+margin-bottom: 57px;
+}
+/* 
+.row{
+  float: left;
+  width: 100%;
+} */
