@@ -11,13 +11,88 @@
 .Cards_heading{
 font-style: normal;
 font-weight: bold;
-font-size: 42px;
+font-size: 30px;
 line-height: 50px;
-margin-left: 105px;
-margin-bottom: 57px;
+padding-left: 0px !important;
+padding-bottom: 30px !important;
+
 }
 /* 
 .row{
   float: left;
   width: 100%;
 } */
+.searchBar{
+  width: 383px;
+  padding-left: 0px !important;
+  padding-bottom: 30px !important;
+
+}
+.currentLoc{
+  width: 383px;
+  padding-left: 0px !important;
+  padding-bottom: 30px !important;
+}
+.current{
+  padding-right: 0px !important;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #226F9A;
+}
+.lines_icon{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  /* text-align: center; */
+  pointer-events: none;
+  color: black;
+  /* margin-right: 30% !important; */
+  margin-left: 10px !important;
+  margin-top: 2px !important;
+}
+
+.fa{
+  font-size: 20px !important;
+}
+
+.input{
+    margin: auto;
+    align-items: center;
+}
+
+.search{
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  
+  color: black;
+  
+
+background: black;
+border: 1px solid black;
+box-sizing: border-box;
+border-radius: 22px;
+    /* border-radius: 20px !important;
+    width: 670px !important;
+    height: 60px !important;
+    margin-right: 30% !important;
+    margin-left: 29% !important; */
+}
